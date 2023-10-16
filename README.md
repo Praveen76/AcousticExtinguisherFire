@@ -2,6 +2,9 @@
 
 **Data:**: You can import dataset from the [following link](https://www.kaggle.com/datasets/muratkokludataset/acoustic-extinguisher-fire-dataset)
 
+
+![Alt text]([image_url](https://www.google.com/search?sca_esv=573710622&rlz=1C1CHBD_enIN1012IN1012&sxsrf=AM9HkKl0gkCM8WXhJw-c6lsK4_8hU8E4XA:1697436762936&q=acoustic+fire+extinguisher+dataset&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiu7aHa9PmBAxXNKlkFHYucDNUQ0pQJegQICxAB&biw=2133&bih=1061&dpr=0.9#imgrc=Tp91dgnjqHObeM))
+
 **Important learnings:**
   * 1. How to mount Google Drive, or G-Drive in Google Colab
     2.How to unizip a file using Python
