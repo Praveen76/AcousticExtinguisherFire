@@ -1,4 +1,4 @@
-# AcousticExtinguisherFire
+# Acoustic Extinguisher Fire
 
 **Data:**: The dataset has 6 input features called SIZE, FUEL,	DISTANCE,	DESIBEL,	AIRFLOW,	FREQUENCY, and one output feature called STATUS. This is a binary classification problem.
 You can import dataset from the [following link](https://www.kaggle.com/datasets/muratkokludataset/acoustic-extinguisher-fire-dataset) to replicate the same results and follow along the experiement.
