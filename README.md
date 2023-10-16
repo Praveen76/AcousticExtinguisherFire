@@ -41,7 +41,8 @@ Few of the benefits of using it are as follows-
 
 In summary, scikit-learn pipelines offer a structured, efficient, and maintainable way to build and deploy machine learning models. They promote best practices, help prevent common errors, and make it easier to work with machine learning in a systematic and organized manner.
 
-
+End Notes:
+You can checkout my blog articles related to ML & AI [here](https://towardsmachinelearning.org/)
 
 
 
