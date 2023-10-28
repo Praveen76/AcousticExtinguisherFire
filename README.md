@@ -51,3 +51,6 @@ You can checkout my blog articles related to ML & AI [here](https://towardsmachi
 
 
 
+# **About Me:**
+I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
+
