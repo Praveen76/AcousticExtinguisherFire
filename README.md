@@ -5,9 +5,22 @@ You can import dataset from the [following link](https://www.kaggle.com/datasets
 
 ![Acoustic Extinguisher Fire Dataset](https://github.com/Praveen76/AcousticExtinguisherFire/blob/main/dataset-cover.jpeg)
 
+# Instructions for Installation:
 
+**Dependencies:** : You'll need to install below dependencies to run this project.
 
-**Important learnings:**
+* json: 2.0.9
+* pandas: 1.0.1
+* numpy: 1.18.1
+* matplotlib: 3.5.3
+* seaborn: 0.10.0
+* sklearn: 0.22.1
+
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested.
+
+In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+
+# **Important learnings:**
     1. How to mount Google Drive, or G-Drive in Google Colab
     2.How to unizip a file using Python
     3. How to import dataset from Kaggle
@@ -45,9 +58,6 @@ Few of the benefits of using it are as follows-
 * Easier Interpretability: Pipelines can be used in conjunction with tools for model interpretability and feature importance analysis. This makes it easier to understand and explain the decisions made by your models.
 
 In summary, scikit-learn pipelines offer a structured, efficient, and maintainable way to build and deploy machine learning models. They promote best practices, help prevent common errors, and make it easier to work with machine learning in a systematic and organized manner.
-
-End Notes:
-You can checkout my blog articles related to ML & AI [here](https://towardsmachinelearning.org/)
 
 
 
