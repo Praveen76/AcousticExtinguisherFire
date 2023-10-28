@@ -31,8 +31,8 @@ In case of any issue with installation or otherwise, please contact me on [Linke
     8. How to find best hyper parameters
 
 
-**Sk-learn Pipeline benefits**: 
- Scikit-learn's Pipeline is a powerful tool for simplifying and streamlining the machine learning workflow. It offers several benefits that make it a valuable component of the scikit-learn library. Here are some of the key advantages of using a scikit-learn pipeline:
+# **Scikit-learn Pipeline benefits**: 
+Scikit-learn Pipeline is a powerful tool for simplifying and streamlining the machine learning workflow. It offers several benefits that make it a valuable component of the scikit-learn library. Here are some of the key advantages of using a scikit-learn pipeline:
  
 1. Clean and Readable Code: Pipelines provide a clean and organized way to structure your machine learning code. Each step in the pipeline is easily identifiable, making your code more readable and maintainable.
 2. Easy Preprocessing: Pipelines seamlessly integrate data preprocessing steps (e.g., data scaling, encoding, imputation) with the model training process. This ensures that the same preprocessing steps are applied to both the training and testing data, reducing the risk of data leakage.
