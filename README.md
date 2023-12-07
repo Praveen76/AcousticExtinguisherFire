@@ -5,7 +5,7 @@ You can import dataset from the [following link](https://www.kaggle.com/datasets
 
 ![Acoustic Extinguisher Fire Dataset](https://github.com/Praveen76/AcousticExtinguisherFire/blob/main/dataset-cover.jpeg)
 
-# Instructions for Installation:
+## Instructions for Installation:
 
 **Dependencies:** : You'll need to install below dependencies to run this project.
 
@@ -20,7 +20,7 @@ The code has been tested on Windows system. It should work well on other distrib
 
 In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
-# **Important learnings:**
+## **Important learnings:**
     1. How to mount Google Drive, or G-Drive in Google Colab
     2.How to unizip a file using Python
     3. How to import dataset from Kaggle
@@ -31,7 +31,7 @@ In case of any issue with installation or otherwise, please contact me on [Linke
     8. How to find best hyper parameters
 
 
-# **Scikit-learn Pipeline benefits**: 
+## **Scikit-learn Pipeline benefits**: 
 Scikit-learn Pipeline is a powerful tool for simplifying and streamlining the machine learning workflow. It offers several benefits that make it a valuable component of the scikit-learn library. Here are some of the key advantages of using a scikit-learn pipeline:
  
 1. Clean and Readable Code: Pipelines provide a clean and organized way to structure your machine learning code. Each step in the pipeline is easily identifiable, making your code more readable and maintainable.
@@ -48,14 +48,24 @@ Scikit-learn Pipeline is a powerful tool for simplifying and streamlining the ma
 
 In summary, scikit-learn pipelines offer a structured, efficient, and maintainable way to build and deploy machine learning models. They promote best practices, help prevent common errors, and make it easier to work with machine learning in a systematic and organized manner.
 
-# License:
-This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
 
-# Issues:
+## Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
-# Contact:
-The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on[Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+## Contributing
+
+If you have a Data Science mini-project that you'd like to share, please follow the guidelines in [CONTRIBUTING.md](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/contributing.md).
+
+## Code of Conduct
+Please adhere to our [Code of Conduct](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/CODE_OF_CONDUCT.md) in all your interactions with the project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or inquiries, feel free to contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/).
 
 ## **About Me**:
 I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
